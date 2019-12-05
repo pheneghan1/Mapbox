@@ -1,0 +1,55 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "BuildingSqFt": "NULL",
+        "YearBuilt": "NULL",
+        "FinishedBasement": "NULL",
+        "Zip": "NULL",
+        "PorchSqFt": "NULL",
+        "MarketVal": "NULL",
+        "LotAcre": "NULL",
+        "Garage": "NULL",
+        "Deck": "NULL",
+        "(No column name)": "{",
+        "City": "NULL",
+        "Popup": "Assessed Value/AGLA: 2",
+        "HalfBaths": "NULL",
+        "geoloc": "0xE6100000010C50C8CEDBD81645404BB0389CF90956C0",
+        "BasementSize": "NULL",
+        "AVAGLA": 2,
+        "State": "NULL",
+        "Fireplace": "NULL",
+        "FullBaths": "NULL",
+        "Stories": "NULL",
+        "GarageSqFt": "NULL",
+        "Address": "21670 N COUNTRYSIDE LN",
+        "DeckSqFt": "NULL",
+        "SaleDate": "NULL",
+        "PIN": "0",
+        "CentralAir": "NULL",
+        "Porch": "NULL",
+        "AGLA": "NULL",
+        "Condition": "NULL",
+        "ID": "18007",
+        "Qualified": "NULL",
+        "EquityVal": "NULL",
+        "FirstSqFt": "NULL",
+        "LotSqFt": "NULL",
+        "Acres": "NULL",
+        "Quality": "NULL",
+        "SaleAmount": "NULL"
+      },
+      "geometry": {
+        "coordinates": [
+          -88.15586,
+          42.178493
+        ],
+        "type": "Point"
+      },
+      "id": "6668ec832c6e80bb248e2a5c1fbc3d99"
+    }
+  ],
+  "type": "FeatureCollection"
+}
